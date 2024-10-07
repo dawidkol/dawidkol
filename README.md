@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [e-commerce-platform](https://github.com/dawidkol/e-commerce-platform)
 - 🌱 I’m currently learning **MongoDB, BASH & LINUX** 
 
-- 📫 How to reach me **dawid.kolano@icloud.com**
+<!--  📫 How to reach me **dawid.kolano@icloud.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
