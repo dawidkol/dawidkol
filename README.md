@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawidkol&label=Profile%20views&color=0e75b6&style=flat" alt="dawidkol" /> </p>
 
-- 🔭 I’m currently working on [e-commerce-platform](https://github.com/dawidkol/e-commerce-platform)
+- 🔭 I’m currently working on [DBANK](https://github.com/dawidkol/DBANK)
 - 🌱 I’m currently learning **MongoDB, BASH & LINUX** 
 
 <!--  📫 How to reach me **dawid.kolano@icloud.com** -->
