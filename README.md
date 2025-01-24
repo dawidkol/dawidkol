@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawidkol&label=Profile%20views&color=0e75b6&style=flat" alt="dawidkol" /> </p>
 
 - 🔭 I’m currently working on [dbank](https://github.com/dawidkol/dbank)
-- 🌱 I’m currently learning **MongoDB, BASH & LINUX** 
 
 <!--  📫 How to reach me **dawid.kolano@icloud.com** -->
 
